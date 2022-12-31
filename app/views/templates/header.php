@@ -19,8 +19,9 @@
             <div class="collapse navbar-collapse d-lg-flex justify-content-lg-end" id="navcol-1">
                 <ul class="navbar-nav">
                     <li class="nav-item"><a class="nav-link active" href="<?= BASEURL?>">Home</a></li>
+                    <li class="nav-item"><a class="nav-link" href="<?= BASEURL?>mahasiswa">Mahasiswa</a></li>
                     <li class="nav-item"><a class="nav-link" href="<?= BASEURL?>about">About</a></li>
-                    <!-- <li class="nav-item"><a class="nav-link" href="#">Pengumuman</a></li> -->
+                    
                 </ul>
         
             </div>
